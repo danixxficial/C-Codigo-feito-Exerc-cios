@@ -1,0 +1,15 @@
+-Criar um jogo da memória simples com botões que viram cartas ao serem clicados.
+-Criar um mini editor de texto com opções de formatação (Bold, Itálico, Underline).
+-Criar um app de to-do list que salva e carrega tarefas de um arquivo .txt.
+-Criar um quiz com perguntas e pontuação final.
+-Criar um sistema de cadastro de clientes com DataGridView e salvar os dados em um arquivo.
+-Criar um player de áudio que permite carregar e tocar arquivos .mp3.
+-Criar um aplicativo que baixa arquivos da internet e exibe o progresso.
+-Criar um formulário que se comunica com um banco de dados SQLite.
+-Criar um controle de estoque básico onde o usuário pode adicionar e remover produtos.
+-Criar um app que consome uma API pública (exemplo: previsão do tempo).
+-Criar um chat local entre dois formulários usando Sockets.
+-Criar um app que gera gráficos com base em dados inseridos pelo usuário.
+-Criar um sistema de pedidos de uma pizzaria com personalização dos ingredientes.
+-Criar um gerenciador de contatos que permite adicionar, editar e excluir contatos.
+-Criar um sistema de login com banco de dados e níveis de acesso.
