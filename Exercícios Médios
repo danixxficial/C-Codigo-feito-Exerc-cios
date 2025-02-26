@@ -1,0 +1,15 @@
+-Criar um formulário que valida se um e-mail digitado é válido ao clicar em um botão.
+-Criar um campo de senha com opção de exibir/ocultar o texto.
+-Criar um jogo de número secreto onde o usuário tenta adivinhar um número.
+-Criar uma ListBox que remove o item selecionado ao clicar em um botão.
+-Criar um sistema de login com usuário e senha pré-definidos.
+-Criar um TrackBar que ajusta a opacidade do formulário.
+-Criar uma agenda simples onde o usuário pode adicionar e remover compromissos.
+-Criar um conversor de temperatura entre Celsius e Fahrenheit.
+-Criar um formulário que lê e exibe o conteúdo de um arquivo .txt.
+-Criar uma calculadora com histórico das operações realizadas.
+-Criar um gerador de senhas aleatórias baseado em opções selecionadas (CheckBox).
+-Criar um sistema de sorteio que escolhe um nome aleatório de uma lista.
+-Criar um formulário que exibe imagens diferentes ao clicar em botões.
+-Criar um cronômetro que começa, pausa e reinicia com botões.
+-Criar um sistema de notas escolares que calcula a média do aluno.
