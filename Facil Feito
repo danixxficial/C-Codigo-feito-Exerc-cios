@@ -1,0 +1,58 @@
+1-Criar um formulário com um botão que exibe "Olá, Mundo!" em um MessageBox.
+
+Codigo:
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("Olá,Mundo!");
+        }
+
+
+2-Criar um formulário com um TextBox e um botão que exiba um texto digitado em outro TextBox.
+        
+Codigo:
+
+        private void button1_Click_2(object sender, EventArgs e)
+ {
+     
+     // Crias Uma Variavel
+     string txtb1 = textBox1.Text;
+     // Dizes que o texto da textBox2 é igual a nossa variavel que tem o textBox1.text
+     textBox2.Text = txtb1;
+
+ }
+
+
+
+
+
+3- Criar um Label que exibe a data e hora atual ao abrir o formulário.
+
+Codigo:
+
+ private void Form1_Load(object sender, EventArgs e)
+ {
+     // Vais pegar a label1 que criaste e inserir no Form1_Load usando o recurso DateTime.Now Quando iniciares vai aparecer o tempo real
+     label1.Text = DateTime.Now.ToString();
+ }
+
+
+
+
+
+4-Criar um botão que muda a cor do formulário ao ser clicado.
+
+Codigo: Ainda não feito
+
+
+
+
+
+
+
+
+
+
+
+
+ 
