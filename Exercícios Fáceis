@@ -1,0 +1,15 @@
+-Criar um formulário com um botão que exibe "Olá, Mundo!" em um MessageBox.
+-Criar um formulário com um TextBox e um botão que exibe o texto digitado.
+-Criar um Label que exibe a data e hora atual ao abrir o formulário.
+-Criar um botão que muda a cor do formulário ao ser clicado.
+-Criar um formulário que fecha ao clicar em um botão.
+-Criar um CheckBox que ativa/desativa um botão.
+-Criar um ComboBox com opções e exibir a opção selecionada em um Label.
+-Criar um ListBox que adiciona itens digitados em um TextBox.
+-Criar um NumericUpDown que altera o tamanho de um texto em um Label.
+-Criar um RadioButton que altera a cor do texto de um Label.
+-Criar um contador que incrementa ao clicar em um botão.
+-Criar um formulário com um ProgressBar e um botão que preenche a barra gradualmente.
+-Criar uma calculadora simples com botões de soma, subtração, multiplicação e divisão.
+-Criar um botão que gera um número aleatório e o exibe em um Label.
+-Criar um relógio digital atualizado a cada segundo usando Timer.
